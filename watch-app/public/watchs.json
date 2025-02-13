@@ -1,0 +1,179 @@
+[
+    {
+        "id": "12345",
+        "name": "Stylish Watch",
+        "size": "42mm",
+        "price": "$199.99",
+        "images": [
+            "/images/w001.jpg"
+        ]
+    },
+    {
+        "id": "67890",
+        "name": "Classic Watch",
+        "size": "38mm",
+        "price": "$149.99",
+        "images": [
+            "/images/w002.jpg"
+        ]
+    },
+    {
+        "id": "11223",
+        "name": "Modern Watch",
+        "size": "40mm",
+        "price": "$179.99",
+        "images": [
+            "/images/w003.jpg"
+        ]
+    },
+    {
+        "id": "44556",
+        "name": "Vintage Watch",
+        "size": "44mm",
+        "price": "$299.99",
+        "images": [
+             "/images/w004.jpg" ]
+    },
+    {
+        "id": "77889",
+        "name": "Sport Watch",
+        "size": "46mm",
+        "price": "$249.99",
+        "images": [
+             "/images/w005.jpg"
+        ]
+    },
+    {
+        "id": "99001",
+        "name": "Luxury Watch",
+        "size": "48mm",
+        "price": "$499.99",
+        "images": [
+            "/images/w006.jpg"
+        ]
+    },
+    {
+        "id": "22334",
+        "name": "Casual Watch",
+        "size": "36mm",
+        "price": "$129.99",
+        "images": [
+             "/images/w007.jpg"
+        ]
+    },
+    {
+        "id": "55667",
+        "name": "Elegant Watch",
+        "size": "39mm",
+        "price": "$189.99",
+        "images": [
+             "/images/w008.jpg"
+        ]
+    },
+    {
+        "id": "88990",
+        "name": "Digital Watch",
+        "size": "41mm",
+        "price": "$99.99",
+        "images": [
+             "/images/w009.jpg"]
+    },
+    {
+        "id": "33445",
+        "name": "Analog Watch",
+        "size": "37mm",
+        "price": "$89.99",
+        "images": [
+            "/images/w0010.jpg"
+        ]
+    },
+    {
+        "id": "66778",
+        "name": "Smart Watch",
+        "size": "45mm",
+        "price": "$399.99",
+        "images": [
+        "/images/w0011.jpg"
+        ]
+    },
+    {
+        "id": "99012",
+        "name": "Classic Leather Watch",
+        "size": "40mm",
+        "price": "$159.99",
+        "images": [
+             "/images/w0012.jpg"
+        ]
+    },
+    {
+        "id": "22345",
+        "name": "Minimalist Watch",
+        "size": "38mm",
+        "price": "$139.99",
+        "images": [
+            "/images/w0013.jpg"
+        ]
+    },
+    {
+        "id": "55678",
+        "name": "Chronograph Watch",
+        "size": "43mm",
+        "price": "$219.99",
+        "images": [
+            "/images/w0014.jpg"]
+    },
+    {
+        "id": "88901",
+        "name": "Diver Watch",
+        "size": "47mm",
+        "price": "$279.99",
+        "images": [
+            "/images/w0015.jpg"
+        ]
+    },
+    {
+        "id": "33456",
+        "name": "Field Watch",
+        "size": "42mm",
+        "price": "$169.99",
+        "images": [
+            "/images/w0016.jpg"
+        ]
+    },
+    {
+        "id": "66789",
+        "name": "Pilot Watch",
+        "size": "44mm",
+        "price": "$259.99",
+        "images": [
+             "/images/w0017.jpg"
+        ]
+    },
+    {
+        "id": "99023",
+        "name": "Dress Watch",
+        "size": "39mm",
+        "price": "$199.99",
+        "images": [
+            "/images/w0018.jpg"
+        ]
+    },
+    {
+        "id": "22356",
+        "name": "Skeleton Watch",
+        "size": "41mm",
+        "price": "$349.99",
+        "images": [
+             "/images/w0019.jpg"
+        ]
+    },
+    {
+        "id": "55689",
+        "name": "Aviator Watch",
+        "size": "46mm",
+        "price": "$269.99",
+        "images": [
+            "/images/w0020.jpg"
+        ]
+    }
+]
